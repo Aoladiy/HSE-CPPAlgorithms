@@ -1,14 +1,9 @@
 #include <iostream>
 
 int main() {
-    int v, t;
-    constexpr int road_length = 109;
-    std::cin >> v >> t;
-    const int distance = v * t;
-    int final_location = distance % road_length;
-    if (final_location < 0) {
-        final_location += road_length;
-    }
-    std::cout << final_location;
+    int a, b, c;
+    std::cin >> a >> b >> c;
+    const bool result = a < b && b < c;
+    std::cout << result;
     return 0;
 }
