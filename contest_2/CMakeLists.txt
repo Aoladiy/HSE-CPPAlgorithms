@@ -1,6 +1,6 @@
 add_subdirectory(A)
 add_subdirectory(B)
-#add_subdirectory(C)
+add_subdirectory(C)
 #add_subdirectory(D)
 #add_subdirectory(E)
 #add_subdirectory(F)

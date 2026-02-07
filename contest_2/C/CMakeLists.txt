@@ -1,0 +1,1 @@
+add_executable(contest_2_C main.cpp)
