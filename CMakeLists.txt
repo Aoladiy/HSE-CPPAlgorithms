@@ -6,3 +6,4 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_subdirectory(contest_1)
 add_subdirectory(contest_2)
+add_subdirectory(control_work)

@@ -1,0 +1,1 @@
+add_executable(control_work_B main.cpp)
