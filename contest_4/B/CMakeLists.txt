@@ -1,1 +1,1 @@
-add_executable(contest_4_A main.cpp)
+add_executable(contest_4_B main.cpp)
